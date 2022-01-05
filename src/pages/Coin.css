@@ -1,0 +1,14 @@
+@media screen and (max-width: 580px) {
+   
+
+
+   .gridItems {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+   }
+
+   .gridItems .info-para {
+   }
+}

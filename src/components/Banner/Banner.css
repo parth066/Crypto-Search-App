@@ -1,0 +1,7 @@
+.tagline {
+     display: flex;
+     height: 40%;
+     flex-direction: column;
+     justify-content: center;
+     text-align: center;
+}
